@@ -1,0 +1,5 @@
+azure:
+  activedirectory:
+    tenant-id:
+    client-id:
+    client-secret:
